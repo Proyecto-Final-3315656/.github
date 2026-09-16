@@ -20,7 +20,6 @@ Express
 ## 👥 Integrantes del Grupo 3
 
 | Deivy Yesid Acosta Acuña | Arquitecto |
-| Julian Andres Diaz Otavo | Albañil |
 ---
 
 
